@@ -27,12 +27,14 @@
 当你添加本站友链时，建议复制以下信息：
 
 ```yaml
-title: 生生不息
-url: https://b.voiceclouds.cn
-avatar: https://b.voiceclouds.cn/hexo/stellar/image/favicon.webp
-screenshot: https://b.voiceclouds.cn/hexo/stellar/image/shot.webp!screenshot
-description: 生命不息，折腾不止！
-feed: https://b.voiceclouds.cn/atom.xml
+{
+    "title": "生生不息",
+    "url": "https://b.voiceclouds.cn",
+    "icon": "https://roim-picx-bpc.pages.dev/rest/UYhN2XK.ico",
+    "snapshot": "https://roim-picx-bpc.pages.dev/rest/Jlso2XK.webp",
+    "description": "生命不息，折腾不止！",
+    "feed": ""
+}
 ```
 
 > 头像地址末尾的 `s=512` 是尺寸，如果显示框架较小可以自行调节至合适的尺寸。
